@@ -1,9 +1,9 @@
 # AI-Green-Patents-Dataset
 | Title       | Description               | Keywords |  Date    
 |-------------|---------------------------|----------|------|
-| Green AI Patents Dataset   | Environmentally Sound Technologies (EST) and AI patents merge     | Twin Transition, Patents, Artificial Intelligence, Green transition, Digital transition, Enviromentally Sound Technologies, Climate change | 2025 - 04 - 06
+| Green Artificial Intelligence (AI) Patents Dataset   | Environmentally Sound Technologies (EST) and AI patents merge     | Twin Transition, Patents, Artificial Intelligence, Green transition, Digital transition, Enviromentally Sound Technologies, Climate change | 2025 - 04 - 06
 
-This dataset combines two existing sources: the Artificial Intelligence Patent Dataset (AIPD) and the IPC/WIPO Green Inventory, drawing from the USPTO Bulk Patent Data. The datasets construction and reclassification provide insights into the intersection of AI and environmental technologies, enabling cross-sectoral and longitudinal analysis from 1976 to 2023. It contains 10,655 unique patents, including information on the primary inventor, the first IPC green classification, and the patent abstract. This resource also offers valuable perspectives on the twin transition, the parallel shift toward digitalisation and sustainability.
+This dataset combines two existing sources: the Artificial Intelligence Patent Dataset (AIPD) and the International Patent Classification(IPC) from The World Intellectual Property Organization (WIPO) Green Inventory, drawing from the USPTO Bulk Patent Data. The datasets construction and reclassification provide insights into the intersection of AI and environmental technologies, enabling cross-sectoral and longitudinal analysis from 1976 to 2023. It contains 10,655 unique patents, including information on the primary inventor, the first IPC green classification, and the patent abstract. This resource also offers valuable perspectives on the twin transition, the parallel shift toward digitalisation and sustainability.
 
 ### Categories: 
 General Patent Information: Includes patent IDs, publication dates, application numbers, and other metadata.
